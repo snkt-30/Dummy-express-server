@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Sanket@1130",
+    "database": "DummyDatabase",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
